@@ -35,7 +35,10 @@ This lab is based on the following sessions and materials:
 
 - **XMLSPY-XML-EDITOR**: A powerful tool by Altova for creating and editing XML files.
   - [Download Official Latest Version](https://www.altova.com/xmlspy-xml-editor/download)
-  - [2018 Version with Crack](https://drive.google.com/.../1kVu75dmlWXJhSzUbhhR.../view...)
+
+## Screenshot
+
+![ARXML Interface](./Interface.png)
 
 ## Contents
 
